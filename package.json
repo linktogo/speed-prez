@@ -8,6 +8,7 @@
   "scripts": {
     "test": "grunt test",
     "start": "npm install grunt-cli && npm install grunt && grunt serve",
+    "serve": "grunt serve",
     "build": "grunt"
   },
   "engines": {
